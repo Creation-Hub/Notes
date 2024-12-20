@@ -1,0 +1,36 @@
+# Ignore common image files
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+*.webp
+*.svg
+
+# Ignore common video files
+*.mp4
+*.mkv
+*.mov
+*.avi
+*.flv
+*.wmv
+*.webm
+*.m4v
+
+# Ignore common audio files
+*.mp3
+*.wav
+*.flac
+*.aac
+*.ogg
+*.m4a
+
+# Ignore thumbnails and previews
+*.thumb.*
+*.thumbnail.*
+
+# Ignore temporary or generated media files
+*.tmp
+*.bak
+.DS_Store
